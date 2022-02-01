@@ -149,3 +149,8 @@ small {font-size: 0.8em;}
 .backlink:hover .backlink__preview {
     display: block;
 }
+
+picture.optimised img {
+    width: 100%;
+    height: auto;
+}
